@@ -1,0 +1,8 @@
+######## pip requirements file #########
+numpy
+pandas
+matplotlib
+Pillow
+six
+opencv-python
+opencv-contrib-python
