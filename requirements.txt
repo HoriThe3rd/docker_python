@@ -6,3 +6,4 @@ Pillow
 six
 opencv-python
 opencv-contrib-python
+jupyter
