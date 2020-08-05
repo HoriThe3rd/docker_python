@@ -1,0 +1,5 @@
+mypython:
+    image: horithe3rd/docker_python:latest
+    volumes:
+        - .:/home
+    tty: true
