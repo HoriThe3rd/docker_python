@@ -1,5 +1,4 @@
-FROM python:3.8
-MAINTAINER HoriThe3rd
+FROM python:3.12-bullseye
 
 WORKDIR /usr/src/app
 COPY requirements.txt ./
