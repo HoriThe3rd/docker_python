@@ -1,10 +1,4 @@
 ######## pip requirements file #########
+notebook
 numpy
 pandas
-matplotlib
-Pillow
-scikit-image
-six
-opencv-python
-opencv-contrib-python
-jupyter

@@ -1,5 +1,7 @@
-mypython:
-    image: horithe3rd/docker_python:latest
-    volumes:
-        - .:/home
-    tty: true
+version: "3"
+services:
+    mypython:
+        image: horithe3rd/python-env:base
+        volumes:
+            - .:/home
+        tty: true
